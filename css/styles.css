@@ -1,0 +1,20 @@
+body{
+  background-color: aliceblue;
+}
+hr{
+  border-style:dotted none none none;
+  border-color: grey;
+  border-width: 5px;
+  height:0px;
+  width:5%;
+}
+h1, h3{
+  color: #3282b8;
+}
+.circular{
+  border-radius: 100%;
+}
+
+img:hover{
+  background-color:red;
+}
